@@ -66,4 +66,12 @@ Summay:-
 
 ## How do you store password in your application?
 
+## Public and Confidential Clients
+|--------------------|-------------|
+|Confidential Clients|Public Clients|
+|--------------------|-------------|
+|Capable of maintaiing the confidentiality of their credentials (e.g. clientid & clientsecret)|Incapable of maintaiing the confidentiality of their credentials (e.g. clientid & clientsecret)|
+|Live on the server|Live on the device|
+|These client applications can safely authenticated|These client applications **cannot** safely authenticated|
+|E.g.: server-side web apps|E.g.: javascript apps (and mobile apps)|
 
