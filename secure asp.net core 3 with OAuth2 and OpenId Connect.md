@@ -67,7 +67,6 @@ Summay:-
 ## How do you store password in your application?
 
 ## Public and Confidential Clients
-|--------------------|-------------|
 |Confidential Clients|Public Clients|
 |--------------------|-------------|
 |Capable of maintaiing the confidentiality of their credentials (e.g. clientid & clientsecret)|Incapable of maintaiing the confidentiality of their credentials (e.g. clientid & clientsecret)|
